@@ -1,7 +1,5 @@
-docs_list_title: PREGO
-
 main:
-  - title: "About 2"
+  - title: "About"
     url: /
   - title: "People"
     url: /people/
