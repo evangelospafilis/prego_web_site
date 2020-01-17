@@ -1,0 +1,19 @@
+PREGO like ECCO
+Sections	Assigned to
+Logo	Vangelis	DONE
+Home	Vangelis
+About
+Research institutes
+Team
+Work plan
+Publications
+News and events
+
+Other pages to use as an example
+	Red sea research center rsrc.kaust.edu.sa
+
+Documents with PREGO informational material
+	The PREGO full text proposal
+	PREGO dissemination
+
+	
