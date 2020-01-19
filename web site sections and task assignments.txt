@@ -1,7 +1,11 @@
 PREGO like ECCO
 Sections	Assigned to
 Logo	Vangelis	DONE
-Home	Vangelis
+Favourite icon	Vangelis DONE	need to ask mk@hcmr.gr for a transparent version
+Header	
+Footer	
+Home	
+Images	
 About
 Research institutes
 Team
