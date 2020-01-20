@@ -1,14 +1,20 @@
 main:
   - title: "About"
     url: /
-  - title: "People"
-    url: /people/
-  - title: "Projects"
-    url: /projects/
+  - title: "Approach"
+    url: /approach/
+  - title: "Tasks"
+    url: /tasks/
   - title: "Publications"
     url: /publications/
-  - title: "Collaborations"
-    url: /collaborations/
+  - title: "People"
+    url: /people/
+  - title: "News"
+    url: /news/
+  - title: "Contact"
+    url: /contact/
+  
+    
 
 publications:
   - title: "Preprints"
