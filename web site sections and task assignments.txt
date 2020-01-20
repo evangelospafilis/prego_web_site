@@ -1,20 +1,16 @@
 PREGO like ECCO
-Sections	Assigned to
-Logo	Vangelis	DONE
-Favourite icon	Vangelis DONE	need to ask mk@hcmr.gr for a transparent version
-Header	
-Footer	
-Home	
-Images	
-About
-Research institutes
-Team
-Work plan
-Publications
-News and events
-
-Other pages to use as an example
-	Red sea research center rsrc.kaust.edu.sa
+Sections						Assigned to		Status
+Logo						Vangelis			DONE
+Favourite icon				Vangelis 			DONE	need to ask mk@hcmr.gr for a transparent version
+Header						all				DONE	
+Footer						Vangelis			lab42icon
+Images						all				e.g. oxygen server, 
+Approach					Haris 			
+Tasks						Haris, Savvas		
+Publications					Vangelis			
+People						Vangelis			
+News 						Savvas			
+Contact						prego@hcmr.gr, lab42open@hcmr.gr	it needs to be shown
 
 Documents with PREGO informational material
 	The PREGO full text proposal
