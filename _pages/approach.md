@@ -6,7 +6,7 @@ permalink: /approach/
 
 ## What is the scientific background?
 
-On 2008 an innovative study by Jeroen Raes and Peer Bork first argued that is <i>"time to consider molecular systems biology at the ecosystem level"</i>. The era of <b>eco-systems biology</b> had already started.
+On 2008 in an innovative study, Jeroen Raes and Peer Bork first argued that is <i>"time to consider molecular systems biology at the ecosystem level"</i>. The era of <b>eco-systems biology</b> had already started.
 
 <b>'Omics technologies</b>, such as metagenomics, metatranscriptomics and metaproteomics have ensured an overall characterization of microbial ecosystems.
 
