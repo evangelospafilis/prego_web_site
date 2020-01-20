@@ -4,7 +4,7 @@ layout: single
 permalink: /approach/
 ---
 
-**PREGO:** Process, environment, organism (PREGO) is a systems-biology approach to elucidate ecosystem function at the microbial dimension. 
+PREGO Process, environment, organism (PREGO) is a systems-biology approach to elucidate ecosystem function at the microbial dimension. 
 
 Photograph from South Heraklion
 QnA Shaped: 
