@@ -9,7 +9,7 @@ Navigation bar				Vangelis			consider side bars
 Approach					Haris 			
 Tasks						Haris, Savvas		
 Publications					Vangelis			
-People						Vangelis			
+People						Vangelis			add a group photo and a photo from the hackathon
 News 						Savvas			
 Contact						prego@hcmr.gr, lab42open@hcmr.gr	it needs to be shown
 
