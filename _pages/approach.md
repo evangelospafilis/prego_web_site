@@ -34,4 +34,6 @@ Its main motivation is to provide a one-stop-shop for researchers interested in 
 
 ## What is coming up?
 
-
+Large-scale <b>text-mining, data-mining, and network analysis</b> will all be combined in the PREGO project in an attempt to understand further ecosystem functioning. Three different modules for extracting association will be implemented and a <b>knowledge</b> base will be produced with the results of all those modules. 
+ 
+Finally,  a <b>web-platform</b> will render the computed <i>Process-Environment-Organism</i> associations searchable by text, ontology terms, organism names, and sequences. 
