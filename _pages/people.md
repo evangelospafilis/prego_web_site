@@ -9,8 +9,8 @@ add a group photo and a photo from the hackathon
 [Evangelos Pafilis](evangelospafilis) 
 
 ## Group members
-- [Haris Zafeiropoulos](hariszafeiropoulos)
-- [Savvas Paragkamian](savvas-paragkamian)
+- [Haris Zafeiropoulos](http://lab42open.hcmr.gr/people/hariszafeiropoulos/)
+- [Savvas Paragkamian](http://lab42open.hcmr.gr/people/savvas-paragkamian/)
 
 ## Collaborators
 - [Dr. Christina Pavloudi](https://scholar.google.gr/citations?user=3zs1rNkAAAAJ)
