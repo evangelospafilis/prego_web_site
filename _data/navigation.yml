@@ -13,9 +13,8 @@ main:
     url: /news/
   - title: "Contact"
     url: /contact/
-  
     
-
+    
 publications:
   - title: "Preprints"
     url: /publications/#preprints
