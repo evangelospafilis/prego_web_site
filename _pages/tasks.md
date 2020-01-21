@@ -28,10 +28,10 @@ This task aims at answering the what **process**, which **environment**, which *
 ## Dissemination, publication, training and outreach (WP7)
 
 ## Deliverables - Overview
-| Tables        | Are           | Cool  |
+<!---| Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
-
+--->
 
 
 |No  |Deliverable name                              |WP No|Delivery date|
