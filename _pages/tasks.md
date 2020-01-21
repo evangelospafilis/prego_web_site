@@ -25,8 +25,9 @@ This task aims at answering the what **process**, which **environment**, which *
 
 ## Association presentation
 
-
 ## Project management
 
 ## Dissemination, publication, training and outreach
+
+## Deliverables
 
