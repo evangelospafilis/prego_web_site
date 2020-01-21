@@ -6,7 +6,7 @@ sidebar:
   nav: "tasks"
 ---
 
-## Text-mining
+## Text-mining (WP1)
 The main principle that governs PREGO is the extraction, significance-quantification, storing, and presentation of *process-environment-organism* associations. 
 This task aims at answering the what **process**, which **environment**, which **organism** question by mining pertinent associations buried as free text in the scientific literature and public biological data. This work package comprises a range of tasks both sensu stricto text mining, and auxiliary tasks such as knowledge modeling (evaluation/enrichment of ENVO’s «environmental system process». 
 
@@ -15,19 +15,17 @@ This task aims at answering the what **process**, which **environment**, which *
 * to develop a named entity recognition module to identify environmental process mentions in text
 
 
-## Knowledge gathering and association extraction
+## Knowledge gathering and association extraction (WP2)
 
-## Homology-based annotation transfer
+## Homology-based annotation transfer (WP3)
 
-## Association unification
+## Association unification (WP4)
 
-## Association database
+## Association presentation (WP5)
 
-## Association presentation
+## Project management (WP6)
 
-## Project management
-
-## Dissemination, publication, training and outreach
+## Dissemination, publication, training and outreach (WP7)
 
 ## Deliverables
 | Tables        | Are           | Cool  |
