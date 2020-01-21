@@ -2,6 +2,8 @@
 title: Tasks
 layout: single
 permalink: /tasks/
+sidebar:
+  nav: "tasks"
 ---
 
 ## Text-mining
