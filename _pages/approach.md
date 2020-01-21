@@ -31,8 +31,7 @@ As also Raes and Bork pointed out in their study, the integration of such networ
 
 ## Which is our aim?
 *Process, environment, organism (PREGO)* is a systems-biology approach to elucidate ecosystem function at the microbial dimension. 
-To understand how ecosystems function it is fundamental to understand *what* processes occur in which
-environments (*where*), and which organisms carry them out (*who*).
+To understand how ecosystems function it is fundamental to understand *what* processes occur in which environments (*where*), and which organisms carry them out (*who*).
 Its main motivation is to provide a one-stop-shop for researchers interested in searching and visually exploring such 
 *what-where-who* associations.
 
