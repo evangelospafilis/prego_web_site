@@ -12,7 +12,7 @@ On 2008 in an innovative study, Jeroen Raes and Peer Bork first argued that is *
 
 <p align="left">
   <img src="https://github.com/evangelospafilis/prego_web_site/blob/master/images/kaloi_limenes.png?raw=true" align="center" >
-  <figcaption><i>Picture:</i> African dust “veil” as captured in South Heraklion, Crete March 2018</figcaption>
+  <figcaption>African dust “veil” as captured in South Heraklion, Crete March 2018</figcaption>
 </p>
 
 
