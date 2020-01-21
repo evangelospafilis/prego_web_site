@@ -30,6 +30,12 @@ This task aims at answering the what **process**, which **environment**, which *
 ## Dissemination, publication, training and outreach
 
 ## Deliverables
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+
+
+
 |No  |Deliverable name                              |WP No|Delivery date|
 |----|:----------------------------------------------:|:-----:|-------------:|
 |D6.1|PhD student and MSc student recruitment report|6    |6            |
