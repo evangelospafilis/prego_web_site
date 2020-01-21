@@ -8,5 +8,5 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 #title: "Home"
 #title: "<img alt='PREGO logo' src='"site.basurl"/images/prego_cropped.png' style='border: 0; height:2em; padding-right:0.5em;'/>"
-#title: site.baseurl
-title: {{ site.baseurl }}
+#title: "site.baseurl"
+title: "{ site.baseurl }"
