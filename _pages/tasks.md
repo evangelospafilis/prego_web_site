@@ -10,7 +10,7 @@ sidebar:
 The main principle that governs PREGO is the extraction, significance-quantification, storing, and presentation of *process-environment-organism* associations. 
 This task aims at answering the what **process**, which **environment**, which **organism** question by mining pertinent associations buried as free text in the scientific literature and public biological data. This work package comprises a range of tasks both sensu stricto text mining, and auxiliary tasks such as knowledge modeling (evaluation/enrichment of ENVO’s «environmental system process». 
 
-#### Objectives
+### Objectives
 * to extract *process-environment-organism* associations buried in the scientific literature, free text descriptions of biological database records, and in dedicated community web pages
 * to develop a named entity recognition module to identify environmental process mentions in text
 
