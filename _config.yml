@@ -6,4 +6,4 @@ plugins:
 
 remote_theme: "mmistakes/minimal-mistakes"
 
-title: "<img alt='PREGO' src='https://evangelospafilis.github.io/prego_web_site/images/prego_cropped.png' style='border: 0; height:1em; padding-right:0.5em;'/>"
+title: "<img alt='PREGO' src='https://evangelospafilis.github.io/prego_web_site/images/prego_cropped.png' style='border: 0; height:1em; padding-left:1em;'/>"

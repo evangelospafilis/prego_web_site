@@ -11,9 +11,6 @@ main:
     url: /publications/
   - title: "News"
     url: /news/
-  - title: "Contact"
-    url: /contact/
-    
     
 publications:
   - title: "Preprints"
@@ -43,6 +40,6 @@ tasks:
   - title: "Project management (WP6)"
     url: /tasks/#project-management-wp6
   - title: "Dissemination, publication, training and outreach (WP7)"
-    url: /tasks/#dissemination,-publication,-training-and-outreach-wp7
+    url: /tasks/#dissemination-publication-training-and-outreach-wp7
   - title: "Deliverables - Overview"
     url: /tasks/#deliverables---overview
