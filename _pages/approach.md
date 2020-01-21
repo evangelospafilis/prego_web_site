@@ -12,7 +12,7 @@ On 2008 in an innovative study, Jeroen Raes and Peer Bork first argued that is *
 
 <p align="left">
   <img src="https://github.com/evangelospafilis/prego_web_site/blob/master/images/kaloi_limenes.png?raw=true" align="center" >
-  <figcaption>Picture: African dust “veil” as captured in South Heraklion, Crete March 2018</figcaption>
+  <figcaption><i>Picture:</i> African dust “veil” as captured in South Heraklion, Crete March 2018</figcaption>
 </p>
 
 
@@ -40,6 +40,6 @@ Its main motivation is to provide a one-stop-shop for researchers interested in 
 
 ## What is coming up?
 
-Large - scale **text - mining, data - mining, and network analysis** will all be combined in the PREGO project in an attempt to understand further ecosystem functioning. Three different modules for extracting association will be implemented and a **knowledge base** will be produced with the results of all those modules. 
+Large - scale **text-mining, data-mining, and network analysis** will all be combined in the PREGO project in an attempt to understand further ecosystem functioning. Three different modules for extracting association will be implemented and a **knowledge base** will be produced with the results of all those modules. 
  
-Finally,  a **web - platform** will render the computed *Process - Environment - Organism* associations searchable by text, ontology terms, organism names, and sequences. 
+Finally,  a **web-platform** will render the computed *Process - Environment - Organism* associations searchable by text, ontology terms, organism names, and sequences. 
