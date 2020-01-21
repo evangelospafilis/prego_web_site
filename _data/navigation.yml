@@ -28,3 +28,22 @@ publications:
     url: /publications/#editorials
   - title: "Book chapters"
     url: /publications/#book-chapters
+
+tasks:
+  - title: "Text mining"
+    url: /tasks/#text-mining
+  - title: "Knowledge gathering and association extraction"
+    url: /tasks/#knowledge-gathering-and-association-extraction
+  - title: "Homology-based annotation transfer"
+    url: /tasks/#homology-based-annotation-transfer
+  - title: "Association unification"
+    url: /tasks/#association-unification
+  - title: "Association database"
+    url: /tasks/#association-database
+  - title: "Association presentation"
+    url: /tasks/#association-presentation
+  - title: "Project management"
+    url: /tasks/#project-management
+  - title: "Dissemination, publication, training and outreach"
+    url: /tasks/#dissemination,-publication,-training-and-outreach
+  
