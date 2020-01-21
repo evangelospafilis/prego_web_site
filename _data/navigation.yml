@@ -46,4 +46,5 @@ tasks:
     url: /tasks/#project-management
   - title: "Dissemination, publication, training and outreach"
     url: /tasks/#dissemination,-publication,-training-and-outreach
-  
+  - title: "Deliverables"
+    url: /tasks/#deliverables
