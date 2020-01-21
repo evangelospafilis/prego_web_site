@@ -16,7 +16,7 @@ On 2008 in an innovative study, Jeroen Raes and Peer Bork first argued that is *
 </p>
 
 
-The information hidden in the vast body of biology **literature** is of great importance. *Processes-organisms-environments* associations already recorded in literature as well as associations not yet recorded but can be extracted from the literature thanks to **text-mining** techniques can be further exploited. 
+The information hidden in the vast body of biology **literature** is of great importance. *Processes - organisms - environments* associations already recorded in literature as well as associations not yet recorded but can be extracted from the literature thanks to **text-mining** techniques can be further exploited. 
 
 At the same time, **'omics technologies**, such as metagenomics, metatranscriptomics and metaproteomics have ensured an overall characterization of microbial ecosystems.
 
@@ -33,13 +33,13 @@ As also Raes and Bork pointed out in their study, the integration of such networ
 *Process, environment, organism (PREGO)* is a systems-biology approach to elucidate ecosystem function at the microbial dimension. 
 To understand how ecosystems function it is fundamental to understand *what* processes occur in which environments (*where*), and which organisms carry them out (*who*).
 Its main motivation is to provide a one-stop-shop for researchers interested in searching and visually exploring such 
-*what-where-who* associations.
+*what - where - who* associations.
 
 
 
 
 ## What is coming up?
 
-Large-scale **text-mining, data-mining, and network analysis** will all be combined in the PREGO project in an attempt to understand further ecosystem functioning. Three different modules for extracting association will be implemented and a **knowledge base** will be produced with the results of all those modules. 
+Large - scale **text - mining, data - mining, and network analysis** will all be combined in the PREGO project in an attempt to understand further ecosystem functioning. Three different modules for extracting association will be implemented and a **knowledge base** will be produced with the results of all those modules. 
  
-Finally,  a **web-platform** will render the computed *Process-Environment-Organism* associations searchable by text, ontology terms, organism names, and sequences. 
+Finally,  a **web - platform** will render the computed *Process - Environment - Organism* associations searchable by text, ontology terms, organism names, and sequences. 
