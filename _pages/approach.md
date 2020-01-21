@@ -12,9 +12,13 @@ On 2008 in an innovative study, Jeroen Raes and Peer Bork first argued that is *
 
 <p align="left">
   <img src="https://github.com/evangelospafilis/prego_web_site/blob/master/images/kaloi_limenes.png?raw=true" align="center" >
+  <figcaption><i>Picture: African dust “veil” as captured in South Heraklion, Crete March 2018</i></figcaption>
 </p>
 
-**'Omics technologies**, such as metagenomics, metatranscriptomics and metaproteomics have ensured an overall characterization of microbial ecosystems.
+
+The information hidden in the vast body of biology **literature** is of great importance. *Processes-organisms-environments* associations already recorded in literature as well as associations not yet recorded but can be extracted from the literature thanks to **text-mining** techniques can be further exploited. 
+
+At the same time, **'omics technologies**, such as metagenomics, metatranscriptomics and metaproteomics have ensured an overall characterization of microbial ecosystems.
 
 The data produced along with the information gathered are valuable. In the case of microbial ecology, their **integration** shall contribute in elucidating crucial parts of the **ecological functioning**. 
 
