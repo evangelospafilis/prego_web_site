@@ -3,7 +3,7 @@ Sections						Assigned to		Status
 Logo						Vangelis			DONE
 Favourite icon				Vangelis 			DONE	need to ask mk@hcmr.gr for a transparent version
 Header						all				DONE	
-Footer						Vangelis			lab42icon
+Footer						Savvas			twitter, GitHub icons, div from m/m
 Images						all				e.g. oxygen server, 
 Navigation bar				Vangelis			consider side bars
 Approach					Haris 			
@@ -12,7 +12,7 @@ Publications					Vangelis
 People						Vangelis			add a group photo and a photo from the hackathon
 News 						Savvas			
 Contact						prego@hcmr.gr, lab42open@hcmr.gr	it needs to be shown
-
+Config file					add metadata, and social media accounts
 Documents with PREGO informational material
 	The PREGO full text proposal
 	PREGO dissemination
