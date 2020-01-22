@@ -2,6 +2,8 @@
 title: Approach
 layout: single
 permalink: /approach/
+sidebar:
+  nav: "approach"
 ---
 
 ## What is the scientific background?
