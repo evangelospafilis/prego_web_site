@@ -1,7 +1,5 @@
 ---
 title: News
-layout: single
-permalink: /news/
+layout: posts
+permalink: /year-archive/
 ---
-
-News module to be investigated
