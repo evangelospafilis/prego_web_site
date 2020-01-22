@@ -17,4 +17,10 @@ Documents with PREGO informational material
 	The PREGO full text proposal
 	PREGO dissemination
 
+now:	in home bring the text a bit more down
+next version: in Home add an image slider with oxygen, think modular 1 and 2, amvrakikos, island sampling day, south crete
+next version: add key info in config.yml e.g social media links and keywords for Google searches
+
+
+
 	
