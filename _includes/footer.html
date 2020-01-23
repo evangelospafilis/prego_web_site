@@ -1,8 +1,23 @@
 <div style="float: left;"><a href="http://www.hcmr.gr"><img alt="HCMR logo" src="{{ site.baseurl }}/images/hcmr.png" style="border: 0; height:2em; padding-right:0.5em;" /></a></div>
 <div style="float: left;"><a href="http://www.imbbc.hcmr.gr"><img alt="IMBBC logo" src="{{ site.baseurl }}/images/imbbc.png" style="border: 0; height:2em; padding-right:0.5em;" /></a></div>
-<div style="float: left;"><a href="http://www.lab42open.hcmr.gr"><img alt="lab42open logo" src="{{ site.baseurl }}/images/lab42open.png" style="border: 0; height:2em;"/></a></div>
+<div style="float: left;"><a href="http://lab42open.hcmr.gr"><img alt="lab42open logo" src="{{ site.baseurl }}/images/lab42open.png" style="border: 0; height:2em;"/></a></div>
 <div style="float: right;"><a href="http://www.gsrt.gr"><img alt="GSRT logo" src="{{ site.baseurl }}/images/gsrt.png" style="border: 0; height:2em; "/></a></div>
 <div style="float: right;"><a href="http://www.elidek.gr"><img alt="HFRI logo" src="{{ site.baseurl }}/images/hfri.png" style="border: 0; height:2em; padding-right:0.5em;"/></a></div>
-<span style="margin-left: 10em; font-size: small;">
-    Funded by the Hellenic Foundation for Research and Innovation | Contact <a href="mailto:prego@hcmr.gr"><img alt="email the PREGO team" style="height: 1em;" src="{{ site.baseurl }}/images/mail.png"></a> | <a href="https://www.hcmr.gr/en/">&copy; IMBBC, HCMR</a>
-</span>
+<div align="center" style="font-size: small"><a>Funded by the Hellenic Foundation for Research and Innovation</a></div>
+<div class="page__footer-follow" align="center">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+      <li><a href="mailto:prego@hcmr.gr"><img alt="email the PREGO team" style="height: 1em;" src="{{ site.baseurl }}/images/mail.png"> CONTACT</a></li>
+      <li><a href="https://www.hcmr.gr/en/">&copy; IMBBC, HCMR</a></li>
+  </ul>
+</div>
