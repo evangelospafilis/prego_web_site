@@ -5,7 +5,6 @@ permalink: /people/
 ---
 
 ## Principal Investigator
-add a group photo and a photo from the hackathon 
 [Evangelos Pafilis](evangelospafilis) 
 
 ## Group members
