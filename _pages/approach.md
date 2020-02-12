@@ -25,7 +25,6 @@ At the same time, **'omics technologies**, such as metagenomics, metatranscripto
 
 The data produced along with the information gathered are valuable. In the case of microbial ecology, their **integration** shall contribute in elucidating crucial parts of the **ecological functioning**. 
 
-
 As also Raes and Bork pointed out in their study, the integration of such networks and merging with the macroecological theory may help us in our attempt to understand the wiring of the main biological systems.
 
 ##Where do we draw inspiration from?
