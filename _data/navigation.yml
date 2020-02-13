@@ -19,10 +19,10 @@ publications:
     url: /publications/#research-articles
   - title: "Conference proceedings"
     url: /publications/#conference-proceedings
-  - title: "Reviews"
-    url: /publications/#reviews
-  - title: "Editorials"
-    url: /publications/#editorials
+#  - title: "Reviews"
+#    url: /publications/#reviews
+#  - title: "Editorials"
+#    url: /publications/#editorials
   - title: "Book chapters"
     url: /publications/#book-chapters
 
