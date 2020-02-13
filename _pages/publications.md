@@ -5,7 +5,7 @@ permalink: /publications/
 sidebar:
   nav: "publications"
 ---
-Selected publications pertinent to the PREGO project. A extended listing of the team publications can be found [here](http://lab42open.hcmr.gr/publications/) 
+Below is a set of (selected) PREGO-related publications. A extended listing of the team publications can be found [here](http://lab42open.hcmr.gr/publications/) 
 
 ## Preprints
 
@@ -47,13 +47,12 @@ Pafilis E, Buttigieg PL, Ferrell B, Pereira E, Schnetzer J, Arvanitidis C and Je
 
 Wang Q, Abdul SS, Almeida L, Ananiadou S, Balderas-Martnez YI, Batista-Navarro R, Campos D, Chilton L, Chou H-J, Contreras G, Cooper L, Dai H-J, Fluck J, Gama S, Gkoutos G, Irin AK, Jensen LJ, Jimenez S, Jue T, Keseler I, Madan S, Matos S, McQuilton P, Mort M, Natarajan J, Pafilis E, Pereira E, Rao S, Rinaldi F, Salgado D, Singh O, Stefancsik R, Su C-H, Subramani S, Tadepally HD, Tsaprouni L, Vasilevsky N, Wang X, Chatr-aryamontri A, Laulederkind S, Matis-Mitchell S, McEntyre J, Orchard S, Pundir S, Rodriguez-Esteban R, Van Auken K, Lu Z, Schaeffer M, Hirschman L and Arighi C (2015). Overview of the Interactive Task in BioCreative V. *Proceedings of BioCreative V*, 364-383.  
 
-<! -- ## Reviews -->
+<!-- ## Reviews -->
 
 <!-- ## Editorials -->
 
 ## Book chapters
 Pafilis, E, Horn H, Brown NP. (2014) Automated Annotation of Scientific Documents: Increasing Access to Biological Knowledge. [Biological Knowledge Discovery Handbook: Preprocessing, Mining and Postprocessing of Biological Data](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118132734.html), Wiley:ISBN:[978-1-1181-3273-9](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118132734.html)
 
-\* Joint first and/or joint corresponding authors.  
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
