@@ -1,9 +1,9 @@
 ---
 title: Tasks
 layout: single
-permalink: /tasks/
-sidebar:
-  nav: "tasks"
+permalink: /tasks/full_text_tasks
+<!-- sidebar:
+  nav: "tasks" -->
 ---
 
 ## Text mining (WP1)
