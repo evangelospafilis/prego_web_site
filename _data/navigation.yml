@@ -37,10 +37,10 @@ tasks:
     url: /tasks/#association-unification-wp4
   - title: "Association presentation"
     url: /tasks/#association-presentation-wp5
-  - title: "Project management"
-    url: /tasks/#project-management-wp6
-  - title: "Dissemination, publication, training and outreach"
-    url: /tasks/#dissemination-publication-training-and-outreach-wp7
+#  - title: "Project management"
+#    url: /tasks/#project-management-wp6
+#  - title: "Dissemination, publication, training and outreach"
+#    url: /tasks/#dissemination-publication-training-and-outreach-wp7
 #  - title: "Deliverables - Overview"
 #    url: /tasks/#deliverables---overview
     
