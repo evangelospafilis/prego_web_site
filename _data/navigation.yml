@@ -27,19 +27,19 @@ publications:
     url: /publications/#book-chapters
 
 tasks:
-  - title: "Text mining (WP1)"
+  - title: "Text mining"
     url: /tasks/#text-mining-wp1
-  - title: "Knowledge gathering and association extraction (WP2)"
+  - title: "Knowledge gathering and association extraction"
     url: /tasks/#knowledge-gathering-and-association-extraction-wp2
-  - title: "Homology-based annotation transfer (WP3)"
+  - title: "Homology-based annotation transfer"
     url: /tasks/#homology-based-annotation-transfer-wp3
-  - title: "Association unification (WP4)"
+  - title: "Association unification"
     url: /tasks/#association-unification-wp4
-  - title: "Association presentation (WP5)"
+  - title: "Association presentation"
     url: /tasks/#association-presentation-wp5
-  - title: "Project management (WP6)"
+  - title: "Project management"
     url: /tasks/#project-management-wp6
-  - title: "Dissemination, publication, training and outreach (WP7)"
+  - title: "Dissemination, publication, training and outreach"
     url: /tasks/#dissemination-publication-training-and-outreach-wp7
 #  - title: "Deliverables - Overview"
 #    url: /tasks/#deliverables---overview
