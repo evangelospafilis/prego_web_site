@@ -31,15 +31,3 @@ sidebar:
 * to present process-environment-organism associations as networks
 * to support enrichment analysis and network-based function exploration
 * to provide developers and data analysis with programmatic access and bulk download options
-
-## Project management
-* To establish the PREGO team and to purchase and install the PREGO dedicated server
-* To organize a hands-on meeting to establish the scientific and technical frameworks of the project
-* To monitor, log, and coordinate the project's activities
-* To link to a network of collaborations in academia and private companies to seek future funding
-
-## Dissemination, publication, training and outreach
-* To maintain a blog and social media spreading the word on PREGO aim, progress and activities
-* To submit PREGO open access publications
-* To present PREGO at an international bioinformatics, biodiversity informatics workshop
-* To teach PREGO and its underlying methodologies to local collaborators, bioinformatics course modules, and to national data infrastructure training activities
