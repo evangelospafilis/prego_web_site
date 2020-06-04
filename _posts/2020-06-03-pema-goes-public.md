@@ -7,7 +7,7 @@ layout: single
 PEMA, our metabarcoding pipeline for four marker genes was recently published on [GigaScience](https://academic.oup.com/gigascience/article/9/3/giaa022/5803335).
 
 <p align="left">
-  <img alt="PEMA publication header" src="https://github.com/evangelospafilis/prego_web_site/blob/master/images/pema_at_gigascience.png?raw=true" align="center" >
+  <img alt="PEMA publication header" height="10em;"  src="https://github.com/evangelospafilis/prego_web_site/blob/master/images/pema_at_gigascience.png?raw=true" align="center" >
 </p>
 
 
@@ -21,8 +21,9 @@ Feel free to contact us regarding PEMA on its [Gitter helpdesk community](https:
 Our thanks to [@prego_project](https://twitter.com/prego_project) and  [@RECONNECT_BMP](https://twitter.com/RECONNECT_BMP) that made this happen. 
 
 <p align="left">
-  <img alt="PEMA architecture" src="https://academic.oup.com/view-large/figure/200706041/giaa022fig1.jpg" align="center"  >
+<a><img alt="PEMA architecture" 
+height="30em;"  src="href="https://github.com/evangelospafilis/prego_web_site/blob/master/images/pema_architecture.jpeg?raw=true" align="center"/></a>
   <figcaption>More information: 
-    <a href="https://doi.org/10.1093/gigascience/giaa022">https://doi.org/10.1093/gigascience/giaa022</a>
+    <a href="https://doi.org/10.1093/gigascience/giaa022" >https://doi.org/10.1093/gigascience/giaa022</a>
     </figcaption>
 </p>
