@@ -6,7 +6,7 @@ layout: single
 
 PEMA, our metabarcoding pipeline for four marker genes was recently published on [GigaScience](https://academic.oup.com/gigascience/article/9/3/giaa022/5803335).
 
-<img alt="PEMA publication header" style="height:15em; z-endex:999"  src="https://github.com/evangelospafilis/prego_web_site/blob/master/images/pema_at_gigascience.png?raw=true" align="left"/>
+<img alt="PEMA publication header" style="max-width:50%; z-endex:999"  src="https://github.com/evangelospafilis/prego_web_site/blob/master/images/pema_at_gigascience.png?raw=true" align="left"/>
 
 You can find its main page on [GitHub](https://github.com/hariszaf/pema) and its containers both on [DockerHub](https://hub.docker.com/repository/docker/hariszaf/pema/) and [SingularityHub](https://singularity-hub.org/collections/2295).
 
