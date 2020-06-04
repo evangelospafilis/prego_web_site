@@ -17,6 +17,7 @@ Feel free to contact us regarding PEMA on its [Gitter helpdesk community](https:
 
 Our thanks to [@prego_project](https://twitter.com/prego_project) and  [@RECONNECT_BMP](https://twitter.com/RECONNECT_BMP) that made this happen. 
 
+<img alt="PEMA publication header" style="height:15em;"  src="https://github.com/evangelospafilis/prego_web_site/blob/master/images/pema_at_gigascience.png?raw=true" align="left"/>
+
 <img alt="PEMA architecture" style="height:30em;"  src="href="https://github.com/evangelospafilis/prego_web_site/blob/master/images/pema_architecture.jpeg?raw=true" align="center" />
   More information: <a href="https://doi.org/10.1093/gigascience/giaa022" >https://doi.org/10.1093/gigascience/giaa022</a>
-</p>
