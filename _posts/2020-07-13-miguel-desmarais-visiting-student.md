@@ -9,6 +9,8 @@ Miguel Desmarais just arrived to Lab42open for his Master's summer internship. H
 Welcome, Miguel!
 
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/miguel_and_prego_members.jpg" alt="Miguel Desmarais visiting student" style="height: 30em">
+
 
 
 
