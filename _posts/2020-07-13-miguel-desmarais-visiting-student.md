@@ -10,6 +10,6 @@ Welcome, Miguel!
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/miguel_and_prego_members.jpg" alt="Miguel Desmarais visiting student" style="width: 80%;">
 
-> Thanks to [Int/nal Master of Science in Environmental Technology and Engineering(IMETE)](https://www.imete.eu/)
+> Thanks to the [Int/nal Master of Science in Environmental Technology and Engineering(IMETE)](https://www.imete.eu/)
 
 
