@@ -10,7 +10,7 @@ permalink: /people/
 ## Group members
 * [Haris Zafeiropoulos, IMBBC, HCMR, Crete, Greece](http://lab42open.hcmr.gr/people/hariszafeiropoulos/)
 * [Savvas Paragkamian, IMBBC, HCMR, Crete, Greece](http://lab42open.hcmr.gr/people/savvas-paragkamian/)
-* [Dr. Lucia Fanini](https://www.researchgate.net/profile/Lucia_Fanini)
+* [Dr. Lucia Fanini, IMBBC, HCMR, Crete, Greece](https://www.researchgate.net/profile/Lucia_Fanini)
 
 ## Collaborators
 * [Dr. Christina Pavloudi, IMBBC, HCMR, Crete, Greece](https://scholar.google.gr/citations?user=3zs1rNkAAAAJ)
