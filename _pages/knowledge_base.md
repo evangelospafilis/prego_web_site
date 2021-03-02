@@ -3,11 +3,17 @@ title: Knowledge Base
 layout: single
 permalink: /knowledge_base
 ---
-<hl/>
+<hr/>
 Test link->import
-<link rel="import" href="http://oxygen.her.hcmr.gr">
-<hl/>
+<link rel="import" href="http://oxygen.her.hcmr.gr" style="display:block; width:300px; height:300px">
+
+<hr/>
 Test iframe
-<iframe src="http://oxygen.her.hcmr.gr" height="100%" width="100%" title="PREGO knowledge base import test"/>
+<iframe src="http://oxygen.her.hcmr.gr" height="900px" width="900px" title="PREGO knowledge base import test"/>
+
+<hr/>
+Test object (data) embeding
+<object data="http://oxygen.her.hcmr.gr/" height="900px" width="900px"></object>
+
 
 
