@@ -3,14 +3,12 @@ title: Knowledge Base
 layout: single
 permalink: /knowledge_base
 ---
-<hr/>
-Test link->import
+Test link rel "import"
 <link rel="import" href="http://oxygen.her.hcmr.gr" style="display:block; width:300px; height:300px">
 
 <hr/>
-Test object (data) embeding
+Test object embedding via data clause
 <object data="http://oxygen.her.hcmr.gr/" height="300px" width="300px"></object>
-
 
 <hr/>
 Test iframe
