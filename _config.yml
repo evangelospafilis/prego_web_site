@@ -28,13 +28,13 @@ social:
  
  # Site Footer
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/prego_project"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/evangelospafilis/"
+#  links:
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/prego_project"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/evangelospafilis/"
       
 # Google Analytics Tracker added, according to instruction in https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 analytics:
