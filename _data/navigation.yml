@@ -2,7 +2,7 @@ main:
   - title: "Info"
     url: /
   - title: "Content"
-    url: /approach/
+    url: /content/
   - title: "API"
     url: /api/
   - title: "People"

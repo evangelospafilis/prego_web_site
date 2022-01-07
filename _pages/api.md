@@ -10,5 +10,5 @@ sidebar:
 
 ## Schema
 
-![PREGO API schema with an example](images/PREGO-API.pnd)
+![PREGO API schema with an example](../images/PREGO-API.pnd)
 

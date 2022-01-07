@@ -99,4 +99,4 @@ Finally, the Environmental Samples channel supports the integration of metagenom
 
 ## Methodology
 
-![PREGO methodology overview](images/prego_analysis_horizontal.png)
+![PREGO methodology overview](../images/prego_analysis_horizontal.png)
