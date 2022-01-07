@@ -8,11 +8,7 @@ sidebar:
 
 ## Resources
 
-*Process, environment, organism (PREGO)* is a systems-biology approach to elucidate ecosystem function at the microbial dimension. 
-To understand how ecosystems function it is fundamental to understand *what* processes occur in which environments (*where*), and which organisms carry them out (*who*).
-Its main motivation is to provide a one-stop-shop for researchers interested in searching and visually exploring such *what - where - who* associations.
-
-
+The following data are retrieved at the backend of PREGO.
 
 
 | Source                   | # items     | Data type                               | Metadata | License                           |
@@ -38,6 +34,8 @@ Finally, the Environmental Samples channel supports the integration of metagenom
 
 
 ### Entities
+
+The entities of PREGO after the NER and mapping of every source. Counts of distinct entities of Taxa, Environments (ENVO terms), Biological Processes (Gene Ontology Biological process) and Molecular Function (Gene Ontology Molecular Function).
 
 | Channel                        | Source                   | Taxonomy |         | Environments | Biological Processes | Molecular Function |
 |--------------------------------|--------------------------|----------|---------|--------------|----------------------|--------------------|
@@ -68,6 +66,9 @@ Finally, the Environmental Samples channel supports the integration of metagenom
 
 
 ### Associations
+
+The associations between entities of PREGO after co-occurrence analysis. These supported entity types of associations are Environments - Biological Processes, Environments - Molecular Functions, Taxa - Environments, Taxa - Biological Processes, Taxa - Molecular Functions.
+
 
 | Channel                        | Source                   | Environments - Processes | Environments - Functions | Taxonomy | Taxa - Environments | Taxa - Processes | Taxa - Function |
 |--------------------------------|--------------------------|--------------------------|--------------------------|----------|---------------------|------------------|-----------------|

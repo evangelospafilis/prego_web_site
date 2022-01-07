@@ -39,14 +39,19 @@ By the means of academic reporting, Google Analytics cookies are in use to colle
 The PREGO software along with the mined associations is under CC BY 4.0 license (raw data from the resources are have their own licenses). 
 Scripts where additional libraries have been used are subject to their individual licenses.
 
-[prego_gathering_data repository](https://github.com/lab42open-team/prego_gathering_data)
+[prego_gathering_data](https://github.com/lab42open-team/prego_gathering_data)
+
 [prego_daemons](https://github.com/lab42open-team/prego_daemons)
+
 [prego_mappings](https://github.com/lab42open-team/prego_mappings)
+
 [prego_statistics](https://github.com/lab42open-team/prego_statistics)
 
 Additional software and curated lists are under their individual licenses:
 [text mining tagger](https://github.com/larsjuhljensen/tagger), BSD 2-Clause "Simplified" License
+
 [mamba](https://github.com/larsjuhljensen/mamba), Copyright, Sune Pletscher-Frankild and Lars Juhl Jensen, University of Copenhagen. All rights reserved.
+
 [tagger dictionary](https://download.jensenlab.org/) and there in: https://download.jensenlab.org/prego_dictionary.tar.gz, CC-BY license
 
 ## Funding

@@ -3,8 +3,8 @@ main:
     url: /
   - title: "Content"
     url: /content/
-  - title: "API"
-    url: /api/
+  - title: "Access"
+    url: /access/
   - title: "People"
     url: /people/
   - title: "Publications"
@@ -42,11 +42,11 @@ publications:
   - title: "Book chapters"
     url: /publications/#book-chapters
 
-api:
+access:
   - title: "How to use"
-    url: /api/#how-to-use
+    url: /access/#how-to-use
   - title: "Schema"
-    url: /api/#schema
+    url: /access/#schema
 #  - title: "Project management"
 #    url: /tasks/#project-management-wp6
 #  - title: "Dissemination, publication, training and outreach"
