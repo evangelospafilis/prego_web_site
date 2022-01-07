@@ -1,10 +1,10 @@
 main:
-  - title: "info"
+  - title: "Info"
     url: /
   - title: "Content"
     url: /approach/
-  - title: "Tasks"
-    url: /tasks/
+  - title: "API"
+    url: /api/
   - title: "People"
     url: /people/
   - title: "Publications"
@@ -19,6 +19,8 @@ info:
     url: /#contact
   - title: "How to cite"
     url: /#how-to-cite
+  - title: "How to contribute"
+    url: /#how-to-contribute
   - title: "Privacy Policy"
     url: /#privacy-policy
   - title: "Terms of Use"
@@ -40,17 +42,17 @@ publications:
   - title: "Book chapters"
     url: /publications/#book-chapters
 
-tasks:
+api:
   - title: "Text mining"
-    url: /tasks/#text-mining-wp1
+    url: /api/#text-mining-wp1
   - title: "Knowledge gathering and association extraction"
-    url: /tasks/#knowledge-gathering-and-association-extraction-wp2
+    url: /api/#knowledge-gathering-and-association-extraction-wp2
   - title: "Homology-based annotation transfer"
-    url: /tasks/#homology-based-annotation-transfer-wp3
+    url: /api/#homology-based-annotation-transfer-wp3
   - title: "Association unification"
-    url: /tasks/#association-unification-wp4
+    url: /api/#association-unification-wp4
   - title: "Association presentation"
-    url: /tasks/#association-presentation-wp5
+    url: /api/#association-presentation-wp5
 #  - title: "Project management"
 #    url: /tasks/#project-management-wp6
 #  - title: "Dissemination, publication, training and outreach"
@@ -59,13 +61,13 @@ tasks:
 #    url: /tasks/#deliverables---overview
     
     
-approach:
-  - title: "Which is our aim?"
-    url: /approach/#which-is-our-aim
-  - title: "What is the scientific background?"
-    url: /approach/#what-is-the-scientific-background
+content:
+  - title: "Resources"
+    url: /content/#which-is-our-aim
+  - title: "Statistics"
+    url: /content/#what-is-the-scientific-background
   - title: "Where do we draw inspiration from?"
-    url: /approach/#where-do-we-draw-inspiration-from
+    url: /content/#where-do-we-draw-inspiration-from
   - title: "What is coming up?"
-    url: /approach/#what-is-coming-up
+    url: /content/#what-is-coming-up
 
