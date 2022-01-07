@@ -15,7 +15,7 @@ permalink: /people/
 ## Collaborators
 * [Dr. Christina Pavloudi, IMBBC, HCMR, Crete, Greece](https://scholar.google.gr/citations?user=3zs1rNkAAAAJ)
 * [Dr. Lars Juhl Jensen, NNFCPR, Copenhagen, Denmark](https://jensenlab.org)
-* [Dr. Georgios Pavlopoulos, Fleming, Athens, Greece](http://gpavlopoulos.info)
+* [Dr. Georgios Pavlopoulos, Fleming, Athens, Greece](https://sites.google.com/site/pavlopoulossite/members)
 * [Dr. Pier Luigi Buttigieg, AWI, Bremenhaven, Germany](https://www.researchgate.net/profile/Pier_Luigi_Buttigieg)
 
 ## Advisor
