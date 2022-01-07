@@ -43,16 +43,10 @@ publications:
     url: /publications/#book-chapters
 
 api:
-  - title: "Text mining"
-    url: /api/#text-mining-wp1
-  - title: "Knowledge gathering and association extraction"
-    url: /api/#knowledge-gathering-and-association-extraction-wp2
-  - title: "Homology-based annotation transfer"
-    url: /api/#homology-based-annotation-transfer-wp3
-  - title: "Association unification"
-    url: /api/#association-unification-wp4
-  - title: "Association presentation"
-    url: /api/#association-presentation-wp5
+  - title: "How to use"
+    url: /api/#how-to-use
+  - title: "Schema"
+    url: /api/#schema
 #  - title: "Project management"
 #    url: /tasks/#project-management-wp6
 #  - title: "Dissemination, publication, training and outreach"
@@ -63,11 +57,11 @@ api:
     
 content:
   - title: "Resources"
-    url: /content/#which-is-our-aim
+    url: /content/#resources
+  - title: "Channels"
+    url: /content/#channels
   - title: "Statistics"
-    url: /content/#what-is-the-scientific-background
-  - title: "Where do we draw inspiration from?"
-    url: /content/#where-do-we-draw-inspiration-from
-  - title: "What is coming up?"
-    url: /content/#what-is-coming-up
+    url: /content/#statistics
+  - title: "Methodology"
+    url: /content/#methodology
 

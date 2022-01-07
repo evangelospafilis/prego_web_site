@@ -5,34 +5,98 @@ permalink: /content/
 sidebar:
   nav: "content"
 ---
-## Which is our aim?
+
+## Resources
+
 *Process, environment, organism (PREGO)* is a systems-biology approach to elucidate ecosystem function at the microbial dimension. 
 To understand how ecosystems function it is fundamental to understand *what* processes occur in which environments (*where*), and which organisms carry them out (*who*).
 Its main motivation is to provide a one-stop-shop for researchers interested in searching and visually exploring such *what - where - who* associations.
 
 
-## What is the scientific background?
-On 2008 in an innovative study, Jeroen Raes and Peer Bork first argued that is *"time to consider molecular systems biology at the ecosystem level"*. The era of **eco-systems biology** had already started.
-
-<p align="left">
-  <img src="https://github.com/evangelospafilis/prego_web_site/blob/master/images/kaloi_limenes.png?raw=true" align="center" >
-  <figcaption>African dust “veil” as captured in South Heraklion, Crete March 2018</figcaption>
-</p>
-
-The information hidden in the vast body of biology **literature** is of great importance. *Processes - organisms - environments* associations already recorded in literature as well as associations not yet recorded but can be extracted from the literature thanks to **text-mining** techniques can be further exploited. 
-
-At the same time, **'omics technologies**, such as metagenomics, metatranscriptomics and metaproteomics have ensured an overall characterization of microbial ecosystems.
-
-The data produced along with the information gathered are valuable. In the case of microbial ecology, their **integration** shall contribute in elucidating crucial parts of the **ecological functioning**. 
-
-As also Raes and Bork pointed out in their study, the integration of such networks and merging with the macroecological theory may help us in our attempt to understand the wiring of the main biological systems.
 
 
-## Where do we draw inspiration from?
-Pioneers in such integrative approaches are the [STRING](https://string-db.org/) and [STITCH](http://stitch-db.org/) data-(knowledge)-bases (and family of tools). Both systematically collect pieces of information from a number of interaction databases, literature mining analyses, experimental datasets and more. Among others, key features they build upon: a consistent association scoring scheme, interaction source tracking provenance, user friendly interface with ready-to-print visual components.
+| Source                   | # items     | Data type                               | Metadata | License                           |
+|--------------------------|-------------|-----------------------------------------|----------|-----------------------------------|
+| MEDLINE and PubMed       | 33 million  | abstracts (text)                        | no       | NLM Copyright                     |
+| PubMed Central OA Subset | 2.7 million | full article (text)                     | no       | CC for Commercial, non-commercial |
+| JGI IMG                  | 9,644       | Isolates Annotated genomes              | yes      | JGI Data Policy                   |
+| Struo                    | 21,276      | Annotated genomes                       | no       | MIT, CC BY-SA 4.0                 |
+| BioProject               | 18,752      | Annotated genomes with abstracts (text) | yes      | INSDC policy                      |
+| MG-RAST                  | 16,096      | markergene samples                      | yes      | CC0                               |
+|                          | 7,965       | metagenomic samples                     | yes      | CC0                               |
+| MGnify                   | 10,500      | markergene samples                      | yes      | CC-BY, CC0                        |
+
+## Channels
+
+PREGO’s contents are mainly divided into three distinct channels of information based on data origin and format.
+The Literature channel exploits scientific publications, i.e. abstracts and full text open access scientific publications using text mining tools.
+Through the Annotated Genomes and Isolates channel, PREGO retrieves genome annotations and their accompanying metadata.
+Finally, the Environmental Samples channel supports the integration of metagenomic analyses (from both amplicon and shotgun studies); taxonomic and functional profiles along with their corresponding metadata. 
 
 
-## What is coming up?
-Large - scale **text-mining, data-mining, and network analysis** will all be combined in the PREGO project in an attempt to understand further ecosystem functioning. Three different modules for extracting association will be implemented and a **knowledge base** will be produced with the results of all those modules. 
- 
-Finally,  a **web-platform** will render the computed *Process - Environment - Organism* associations searchable by text, ontology terms, organism names, and sequences. 
+## Statistics
+
+
+### Entities
+
+| Channel                        | Source                   | Taxonomy |         | Environments | Biological Processes | Molecular Function |
+|--------------------------------|--------------------------|----------|---------|--------------|----------------------|--------------------|
+| Literature                     | MEDLINE PubMed - PMC OA  | Strains  | 8,929   | 1,077        | 15,079               | 7,318              |
+|                                |                          | Species  | 240,377 |              |                      |                    |
+|                                |                          | Total    | 342,506 |              |                      |                    |
+| Environmental samples          | MG-RAST amplicon         | Strains  | 1,392   | 162          | -                    | -                  |
+|                                |                          | Species  | 4,324   |              |                      |                    |
+|                                |                          | Total    | 5,859   |              |                      |                    |
+|                                | MG-RAST metagenome       | Strains  | 2,522   | 258          | -                    | 3,839              |
+|                                |                          | Species  | 4,406   |              |                      |                    |
+|                                |                          | Total    | 7,157   |              |                      |                    |
+|                                | MGnify amplicon          | Strains  | 2       | 216          | 11                   |  -                 |
+|                                |                          | Species  | 1,471   |              |                      |                    |
+|                                |                          | Total    | 2,955   |              |                      |                    |
+| Annotated Genomes and Isolates | JGI IMGisolates          | Strains  | 2,398   | 241          | -                    | 3,670              |
+|                                |                          | Species  | 11,203  |              |                      |                    |
+|                                |                          | Total    | 13,849  |              |                      |                    |
+|                                | STRUO                    | Strains  | 6       | -            | -                    | 2,789              |
+|                                |                          | Species  | 19,289  |              |                      |                    |
+|                                |                          | Total    | 19,325  |              |                      |                    |
+|                                | BioProject               | Strains  | 5,754   | 309          | 626                  | -                  |
+|                                |                          | Species  | 3,373   |              |                      |                    |
+|                                |                          | Total    | 9,393   |              |                      |                    |
+| Total                          | All                      | Strains  | 12,840  | 1,090        | 15,091               | 7,971              |
+|                                |                          | Species  | 258,352 |              |                      |                    |
+|                                |                          | Total    | 364,508 |              |                      |                    |
+
+
+### Associations
+
+| Channel                        | Source                   | Environments - Processes | Environments - Functions | Taxonomy | Taxa - Environments | Taxa - Processes | Taxa - Function |
+|--------------------------------|--------------------------|--------------------------|--------------------------|----------|---------------------|------------------|-----------------|
+| Literature                     | MEDLINE PubMed - PMC OA  | 883,997                  | 422,579                  | Strains  | 69,968              | 590,630          | 384,079         |
+|                                |                          |                          |                          | Species  | 778,877             | 3,501,635        | 1,961,920       |
+|                                |                          |                          |                          | Total    | 1,669,608           | 7,969,310        | 4,613,827       |
+| Environmental samples          | MG-RAST amplicon         | -                        | -                        | Strains  | 13,645              | -                | -               |
+|                                |                          |                          |                          | Species  | 39,007              |                  |                 |
+|                                |                          |                          |                          | Total    | 53,439              |                  |                 |
+|                                | MG-RAST metagenome       | -                        | 620,846                  | Strains  | 262,106             | -                | 8,626,328       |
+|                                |                          |                          |                          | Species  | 103,913             |                  | 10,715,548      |
+|                                |                          |                          |                          | Total    | 372,301             |                  | 19,950,096      |
+|                                | MGnify amplicon          | -                        | -                        | Strains  | 18                  | -                |                 |
+|                                |                          |                          |                          | Species  | 30,122              | 351              | -               |
+|                                |                          |                          |                          | Total    | 111,976             | 2,097            |                 |
+| Annotated Genomes and Isolates | JGI IMGisolates          | -                        | -                        | Strains  | 8,229               | -                | 3,461,693       |
+|                                |                          |                          |                          | Species  | 42,141              |                  | 13,216,559      |
+|                                |                          |                          |                          | Total    | 50,888              |                  | 16,821,850      |
+|                                | STRUO                    | -                        | -                        | Strains  | -                   | -                | 1,803           |
+|                                |                          |                          |                          | Species  |                     |                  | 4,070,195       |
+|                                |                          |                          |                          | Total    |                     |                  | 4,079,312       |
+|                                | BioProject               | -                        | -                        | Strains  | 3,263               | 7,473            |                 |
+|                                |                          |                          |                          | Species  | 4,187               | 4,294            |                 |
+|                                |                          |                          |                          | Total    | 7,641               | 12,169           |                 |
+| Total                          | All                      | 883,997                  | 1,043,425                | Strains  | 357,229             | 598,103          | 12,473,903      |
+|                                |                          |                          |                          | Species  | 998,247             | 3,506,280        | 29,964,222      |
+|                                |                          |                          |                          | Total    | 2,265,853           | 7,983,576        | 45,465,085      |
+
+
+## Methodology
+
+![PREGO methodology overview](images/prego_analysis_horizontal.png)
