@@ -1,9 +1,9 @@
 ---
-title: API
+title: Access
 layout: single
-permalink: /api/
+permalink: /access/
 sidebar:
-  nav: "api"
+  nav: "access"
 ---
 
 ## Bulk download
