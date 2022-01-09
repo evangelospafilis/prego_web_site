@@ -9,11 +9,34 @@ Below is a set of (selected) PREGO-related publications. A extended listing of t
 
 ## Preprints
 
+OnTheFly2.0: a text-mining web application for automated biomedical entity recognition, document annotation, network and functional enrichment analysis
+Fotis A. Baltoumas, Sofia Zafeiropoulou, Evangelos Karatzas, Savvas Paragkamian, Foteini Thanati, Ioannis Iliopoulos, Aristides G. Eliopoulos, Reinhard Schneider, Lars Juhl Jensen, Evangelos Pafilis, Georgios A. Pavlopoulos
+bioRxiv 2021.05.14.444150; doi: https://doi.org/10.1101/2021.05.14.444150
+
+Haris Zafeiropoulos, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis, Savvas Paragkamian, Nelina Angelova, Aglaia Antoniou, Theodoros Danis, Eliza Kaitetzidou, Panagiotis Kasapidis, Jon Bent Kristoffersen, Vasileios Papadogiannis, Christina Pavloudi, Quoc Viet Ha, Jacques Lagnel, Nikos Pattakos, Giorgos Perantinos, Dimitris Sidirokastritis, Panagiotis Vavilis, Georgios Kotoulas, Tereza Manousaki, Elena Sarropoulou, Costas S Tsigenopoulos, Christos Arvanitidis, Antonios Magoulas and Evangelos Pafilis. (2021). The IMBBC HPC facility: history, configuration, usage statistics and related activities (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.4665308
+
 Zafeiropoulos H, Viet HQ, Vasileiadou K, Potirakis A, Arvanitidis C, Topalis P, Pavloudi C, Pafilis E **2019**. PEMA: from the raw .fastq files of 16S rRNA and COI marker genes to the (M)OTU-table, a thorough metabarcoding analysis. *bioRxiv preprint* 709113. [Abstract](https://doi.org/10.1101/709113) [Full text](https://www.biorxiv.org/content/biorxiv/early/2019/07/20/709113.full.pdf) [WWW](https://github.com/hariszaf/pema) <span class="__dimensions_badge_embed__" data-doi="10.1101/709113" data-style="small_rectangle"></span> 
 
 ## Research articles
 
-Zafeiropoulos H, Viet HQ, Vasileiadou K, Potirakis A, Arvanitidis C, Topalis P, Pavloudi C, Pafilis E **2020**. PEMA: a flexible Pipeline for Environmental DNA Metabarcoding Analysis of the 16S/18S ribosomal RNA, ITS, and COI marker genes. *GigaScience* 2020 **9:3**:giaa022. [Abstract](https://www.ncbi.nlm.nih.gov/pubmed/32161947) [Full text](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giaa022/5803335) <span class="__dimensions_badge_embed__" data-doi="10.1093/gigascience/giaa022" data-style="small_rectangle"></span>
+Zafeiropoulos, H.; Paragkamian, S.; Ninidakis, S.; Pavlopoulos, GA.; Jensen, LJ.; Pafilis, E. PREGO: a literature and data-mining resource to associate microorganisms, biological processes, and environment types. Microorganisms 2021, 9, x. https://doi.org/10.3390/xxxx (submitted)
+
+Lucia Fanini, Omar Defeo, Michael Elliott, Savvas Paragkamian, Maurizio Pinna, Vanessa-Sarah Salvo,
+Coupling beach ecology and macroplastics litter studies: Current trends and the way ahead,
+*Marine Pollution Bulletin* , **Volume 173, Part A**, 2021, 112951, ISSN 0025-326X, https://doi.org/10.1016/j.marpolbul.2021.112951.
+[Abstract](https://www.sciencedirect.com/science/article/abs/pii/S0025326X21009851) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.marpolbul.2021.112951" data-style="small_rectangle"></span>
+
+Fotis A Baltoumas, Sofia Zafeiropoulou, Evangelos Karatzas, Savvas Paragkamian, Foteini Thanati, Ioannis Iliopoulos, Aristides G Eliopoulos, Reinhard Schneider, Lars Juhl Jensen, Evangelos Pafilis, Georgios A Pavlopoulos, OnTheFly2.0: a text-mining web application for automated biomedical entity recognition, document annotation, network and functional enrichment analysis, *NAR Genomics and Bioinformatics*, **Volume 3, Issue 4**, December 2021, lqab090, https://doi.org/10.1093/nargab/lqab090
+[Full text](https://academic.oup.com/nargab/article/3/4/lqab090/6382333) <span class="__dimensions_badge_embed__" data-doi="10.1093/nargab/lqab090" data-style="small_rectangle"></span>
+
+Haris Zafeiropoulos, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis, Savvas Paragkamian, Nelina Angelova, Aglaia Antoniou, Theodoros Danis, Eliza Kaitetzidou, Panagiotis Kasapidis, Jon Bent Kristoffersen, Vasileios Papadogiannis, Christina Pavloudi, Quoc Viet Ha, Jacques Lagnel, Nikos Pattakos, Giorgos Perantinos, Dimitris Sidirokastritis, Panagiotis Vavilis, Georgios Kotoulas, Tereza Manousaki, Elena Sarropoulou, Costas S Tsigenopoulos, Christos Arvanitidis, Antonios Magoulas, Evangelos Pafilis, 0s and 1s in marine molecular research: a regional HPC perspective, *GigaScience*, **Volume 10, Issue 8**, August 2021, giab053, https://doi.org/10.1093/gigascience/giab053
+[Full text](https://academic.oup.com/gigascience/article/10/8/giab053/6353916) <span class="__dimensions_badge_embed__" data-doi="10.1093/gigascience/giab053" data-style="small_rectangle"></span>
+
+Vangay, P.; Burgin, J.; Johnston, A.; Beck, K.L.; Berrios, D.C.; Blumberg, K.; Canon, S.; Chain, P.; Chandonia, J.-M.; Christianson, D.; Pafilis, E.; et al. Microbiome Metadata Standards: Report of the National Microbiome Data Collaborative’s Workshop and Follow-On Activities. **mSystems** 2021, **6**, e01194-20, doi:10.1128/mSystems.01194-20.
+[Full text](https://journals.asm.org/doi/full/10.1128/mSystems.01194-20) <span class="__dimensions_badge_embed__" data-doi="10.1128/mSystems.01194-20" data-style="small_rectangle"></span>
+
+Zafeiropoulos H, Viet HQ, Vasileiadou K, Potirakis A, Arvanitidis C, Topalis P, Pavloudi C, Pafilis E **2020**. PEMA: a flexible Pipeline for Environmental DNA Metabarcoding Analysis of the 16S/18S ribosomal RNA, ITS, and COI marker genes. *GigaScience* 2020 **9:3**:giaa022. 
+[Abstract](https://www.ncbi.nlm.nih.gov/pubmed/32161947) [Full text](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giaa022/5803335) <span class="__dimensions_badge_embed__" data-doi="10.1093/gigascience/giaa022" data-style="small_rectangle"></span>
 
 Chasapi A, Aivaliotis M, Angelis L, Chanalaris A, Iliopoulos I, Kappas I, Karapiperis C, Kyrpides NC, Pafilis E, Panteris E, Topalis P, Tsiamis G, Vizirianakis IS, Vlassi M, Promponas VJ, Ouzounis CA **2019** 
 Establishment of computational biology in Greece and Cyprus: Past, present, and future. *PLoS Comput Biol.*, **15(12)**:e1007532.
@@ -41,6 +64,16 @@ Pafilis E, O'Donoghue SI, Jensen LJ, Horn H, Kuhn M, Brown NP and Schneider R (2
 [Abstract](https://www.ncbi.nlm.nih.gov/pubmed/19513049) [Full text](https://doi.org/10.1038/nbt0609-508) [WWW](http://reflect.ws) <span class="__dimensions_badge_embed__" data-doi="10.1038/nbt0609-508" data-style="small_rectangle"></span>
 
 ## Conference proceedings
+
+Savvas Paragkamian, Haris Zafeiropoulos, Stylianos Ninidakis, Georgios A. Pavlopoulos, Lars Juhl Jensen, Evangelos Pafilis. PREGO (Process, Environment, Organism), mining literature and -omics (meta)data to associate microorganisms, biological processes, and environment types. 9th Conference of MIKROBIOKOSMOS. 16 to 18 December 2021, Athens, Greece. [Oral presentation](https://mikrobiokosmos2021.org/Scientific_Program)
+
+Haris Zafeiropoulos, Savvas Paragkamian, Christina Pavloudi, George Tsamis, Stylianos Ninidakis, Ioulia Santi, Georgios A. Pavlopoulos, Lars Juhl Jensen, Evangelos Pafilis. PREGO (Process, Environment, Organism), mining literature and -omics (meta)data to associate microorganisms, biological processes, and environment types. World Microbe Forum 2021. 20 - 24 June. [iPoster](https://wmf2021-asm.ipostersessions.com/Default.aspx?s=7E-ED-86-6A-4D-58-BA-78-E1-40-48-4D-2B-B7-8D-BE).
+
+Zafeiropoulos H, Gargan L, Pavloudi C, Pafilis E, Carlsson J (2021) Bacteria are everywhere, even in your COI data: Τhe art of getting to know the unknown unknowns and shine light on the dark matter! 1st DNAQUA International Conference (March 9-11, 2021). ARPHA Conference Abstracts 4: e64966. https://doi.org/10.3897/aca.4.e64966
+
+Zafeiropoulos H, Pavloudi C, Pafilis E (2021) PEMA v2: addressing metabarcoding bioinformatics analysis challenges. 1st DNAQUA International Conference (March 9-11, 2021). ARPHA Conference Abstracts 4: e64902. https://doi.org/10.3897/aca.4.e64902
+
+Haris Zafeiropoulos, Savvas Paragkamian, Christina Pavloudi, George Tsamis, Stylianos Ninidakis, Ioulia Santi, Georgios A. Pavlopoulos, Lars Juhl Jensen, Evangelos Pafilis. Mining literature and -omics (meta)data to associate microorganisms, biological processes, and environment types. FEMS Online Conference on Microbiology 2020. 28 – 31 October 2020. [Video Recordings](https://ti.to/fems-online-conference-on-microbiology-2020/recordings).
 
 Pafilis E, Bērziņš R and Jensen LJ (2017). EXTRACT 2.0: text-mining-assisted interactive annotation of biomedical named entities and ontology terms. *Proceedings of Bio-Ontologies 2017*.  
 [Full text](https://doi.org/10.1101/111088) [WWW](https://extract.jensenlab.org/) <span class="__dimensions_badge_embed__" data-doi="10.1101/111088" data-style="small_rectangle"></span>
