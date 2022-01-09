@@ -43,10 +43,10 @@ publications:
     url: /publications/#book-chapters
 
 access:
-  - title: "How to use"
-    url: /access/#how-to-use
-  - title: "Schema"
-    url: /access/#schema
+  - title: "Bulk download"
+    url: /access/#bulk-download
+  - title: "API"
+    url: /access/#api
 #  - title: "Project management"
 #    url: /tasks/#project-management-wp6
 #  - title: "Dissemination, publication, training and outreach"

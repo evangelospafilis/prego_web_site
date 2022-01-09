@@ -13,10 +13,10 @@ permalink: /people/
 * [Dr. Lucia Fanini, IMBBC, HCMR, Crete, Greece](https://www.researchgate.net/profile/Lucia_Fanini)
 
 ## Collaborators
-* [Dr. Christina Pavloudi, IMBBC, HCMR, Crete, Greece](https://scholar.google.gr/citations?user=3zs1rNkAAAAJ)
-* [Dr. Lars Juhl Jensen, NNFCPR, Copenhagen, Denmark](https://jensenlab.org)
+* [Dr. Christina Pavloudi, The George Washington University](https://scholar.google.gr/citations?user=3zs1rNkAAAAJ)
+* [Dr. Lars Juhl Jensen, NNF CPR, Copenhagen, Denmark](https://jensenlab.org)
 * [Dr. Georgios Pavlopoulos, Fleming, Athens, Greece](https://sites.google.com/site/pavlopoulossite/members)
 * [Dr. Pier Luigi Buttigieg, AWI, Bremenhaven, Germany](https://www.researchgate.net/profile/Pier_Luigi_Buttigieg)
 
 ## Advisor
-[Dr. Nikos Kyrpides, DOE JGI, San Fransisco, CA, US](https://jgi.doe.gov/about-us/organization/prokaryote-super-program/nikos-kyrpides/)
+[Dr. Nikos Kyrpides, DOE JGI, San Fransisco, CA, US](https://jgi.doe.gov/our-science/scientists-jgi/nikos-kyrpides/)
