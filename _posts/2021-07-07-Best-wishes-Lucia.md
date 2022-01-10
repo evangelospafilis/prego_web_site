@@ -11,7 +11,7 @@ In such short time a new paper emerged based on literature mining about beach ec
 In that article the team worked together to find gaps and trends in literature using text mining.
 The findings confirmed the qualitative observation that Lucia had made; most of research on beach litter is focused on microplastics, thus neglecting macroplastics which are a major issue.
 
-<img src="{{ site.url }}{{ site.baseurl }} /images/2021-07-07-Best-wishes-Lucia.jpg " alt="party for Lucia at IMBBC" style="width: 80%;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2021-07-07-Best-wishes-Lucia.jpg" alt="party for Lucia at IMBBC" style="width: 80%;">
 
 
 Hope to many future collaborations!
