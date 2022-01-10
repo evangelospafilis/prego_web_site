@@ -22,11 +22,13 @@ Thalassocosmos
 71500 Gournes, Crete, Greece
 P.O.Box 2214, 71003 Heraklion, Crete, Greece
 
+<!--
 ## How to cite
 
 If you use PREGO in your research or analysis please cite:
 
 Zafeiropoulos, H.; Paragkamian, S.; Ninidakis, S.; Pavlopoulos, GA.; Jensen, LJ.; Pafilis, E. PREGO: a literature and data-mining resource to associate microorganisms, biological processes, and environment types. Microorganisms 2021, 9, x. https://doi.org/10.3390/xxxx (submitted)
+-->
 
 ## How to contribute
 

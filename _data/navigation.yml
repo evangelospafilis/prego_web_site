@@ -17,8 +17,8 @@ info:
     url: /#aim
   - title: "Contact"
     url: /#contact
-  - title: "How to cite"
-    url: /#how-to-cite
+#  - title: "How to cite"
+#    url: /#how-to-cite
   - title: "How to contribute"
     url: /#how-to-contribute
   - title: "Privacy Policy"
