@@ -20,3 +20,7 @@ permalink: /people/
 
 ## Advisor
 [Dr. Nikos Kyrpides, DOE JGI, San Fransisco, CA, US](https://jgi.doe.gov/our-science/scientists-jgi/nikos-kyrpides/)
+
+## Students
+* [Rania Theologi](https://www.linkedin.com/in/ourania-theologi-7b3893156/), M.Sc thesis on Chemical text and association rule mining
+* [Miguel Desmarais](https://www.researchgate.net/profile/Miguel-Desmarais), visiting student, Int/nal Master of Science in Environmental Technology and Engineering(IMETE)
