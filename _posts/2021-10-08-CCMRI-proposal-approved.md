@@ -11,4 +11,4 @@ How many metagenomics datasets are related to climate change?
 How to be up-to-date as new climate change related metagenomic records emerge?
 How to categorize such records in useful subsets reflecting important aspects of climate change?
 
-PREGO team is very exceted for these news and looks forward to address these issues! 
+PREGO team is very excited for these news and looks forward to address these issues! 
