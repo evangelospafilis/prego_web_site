@@ -15,7 +15,7 @@ permalink: /people/
 ## Collaborators
 * [Dr. Christina Pavloudi, The George Washington University](https://scholar.google.gr/citations?user=3zs1rNkAAAAJ)
 * [Dr. Lars Juhl Jensen, NNF CPR, Copenhagen, Denmark](https://jensenlab.org)
-* [Dr. Georgios Pavlopoulos, Fleming, Athens, Greece](https://sites.google.com/site/pavlopoulossite/members)
+* [Dr. Georgios Pavlopoulos, Fleming, Athens, Greece](http://pavlopouloslab.info/)
 * [Dr. Pier Luigi Buttigieg, AWI, Bremenhaven, Germany](https://www.researchgate.net/profile/Pier_Luigi_Buttigieg)
 
 ## Advisor
