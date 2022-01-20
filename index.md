@@ -41,7 +41,7 @@ By the means of academic reporting, Google Analytics cookies are in use to colle
 The PREGO software along with the mined associations is under CC BY 4.0 license (raw data from the resources are have their own licenses). 
 Scripts where additional libraries have been used are subject to their individual licenses.
 
-[prego_gathering_data](https://github.com/lab42open-team/prego_gathering_data), here are the scripts that gather data from resources and extract associations.
+[prego_gathering_data](https://github.com/lab42open-team/prego_gathering_data){:target="_blank" rel="noopener"}, here are the scripts that gather data from resources and extract associations.
 
 [prego_daemons](https://github.com/lab42open-team/prego_daemons), here are the scripts that periodically update the PREGO knowledge base.
 
