@@ -32,7 +32,9 @@ Zafeiropoulos, H.; Paragkamian, S.; Ninidakis, S.; Pavlopoulos, GA.; Jensen, LJ.
 
 ## How to contribute
 
-PREGO team is happy to receive feedback from its' users! If you have any ideas, requests or bugs please submit an issue at [our repository](https://github.com/evangelospafilis/prego_web_site/issues) and/or send an email (see above [Contact](#contact))
+PREGO team is happy to receive feedback from its' users! If you have any ideas, 
+requests or bugs please submit an issue at [our repository](https://github.com/evangelospafilis/prego_web_site/issues){:target="_blank" rel="noopener"}
+and/or send an email (see above [Contact](#contact))
 
 ## Privacy Policy
 By the means of academic reporting, Google Analytics cookies are in use to collect web site traffic statistics. By using this site, you agree to its use of cookies.
@@ -43,19 +45,19 @@ Scripts where additional libraries have been used are subject to their individua
 
 [prego_gathering_data](https://github.com/lab42open-team/prego_gathering_data){:target="_blank" rel="noopener"}, here are the scripts that gather data from resources and extract associations.
 
-[prego_daemons](https://github.com/lab42open-team/prego_daemons), here are the scripts that periodically update the PREGO knowledge base.
+[prego_daemons](https://github.com/lab42open-team/prego_daemons){:target="_blank" rel="noopener"}, here are the scripts that periodically update the PREGO knowledge base.
 
-[prego_mappings](https://github.com/lab42open-team/prego_mappings), here are the scripts that transform all identifiers to the ones that PREGO has adopted.
+[prego_mappings](https://github.com/lab42open-team/prego_mappings){:target="_blank" rel="noopener"}, here are the scripts that transform all identifiers to the ones that PREGO has adopted.
 
-[prego_statistics](https://github.com/lab42open-team/prego_statistics), here are the scripts which count all contents of PREGO and summarize them in the different taxonomic ranks.
+[prego_statistics](https://github.com/lab42open-team/prego_statistics){:target="_blank" rel="noopener"}, here are the scripts which count all contents of PREGO and summarize them in the different taxonomic ranks.
 
 Additional software and curated lists are under their individual licenses:
 
-[text mining tagger](https://github.com/larsjuhljensen/tagger), BSD 2-Clause "Simplified" License
+[text mining tagger](https://github.com/larsjuhljensen/tagger){:target="_blank" rel="noopener"}, BSD 2-Clause "Simplified" License
 
-[mamba](https://github.com/larsjuhljensen/mamba), the web server, Copyright, Sune Pletscher-Frankild and Lars Juhl Jensen, University of Copenhagen. All rights reserved.
+[mamba](https://github.com/larsjuhljensen/mamba){:target="_blank" rel="noopener"}, the web server, Copyright, Sune Pletscher-Frankild and Lars Juhl Jensen, University of Copenhagen. All rights reserved.
 
-[tagger dictionary](https://download.jensenlab.org/) is the basis of knowledge of taxa, environments, processes and molecular functions that the tagger extracts. Available at: https://download.jensenlab.org/prego_dictionary.tar.gz, CC-BY license
+[tagger dictionary](https://download.jensenlab.org/){:target="_blank" rel="noopener"} is the basis of knowledge of taxa, environments, processes and molecular functions that the tagger extracts. Available at: https://download.jensenlab.org/prego_dictionary.tar.gz, CC-BY license
 
 ## Funding
 
