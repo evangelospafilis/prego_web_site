@@ -28,7 +28,8 @@ If you use PREGO in your research or analysis please cite:
 
 Zafeiropoulos, H.; Paragkamian, S.; Ninidakis, S.; Pavlopoulos, GA.; Jensen, LJ.; Pafilis, E. 
 PREGO: a literature and data-mining resource to associate microorganisms, biological processes, and environment types. 
-Microorganisms 10.2 (2022). [Full text](https://www.mdpi.com/2076-2607/10/2/293)
+Microorganisms 10.2 (2022). [Full text](https://www.mdpi.com/2076-2607/10/2/293){:target="_blank" rel="noopener"}
+
 
 ## How to contribute
 
