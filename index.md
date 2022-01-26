@@ -13,7 +13,7 @@ Its main motivation is to provide a one-stop-shop for researchers interested in 
 
 ## Contact
 
-Correspondence: pafilis[at]hcmr.gr; prego@hcmr.gr; Tel: +30 2810 337748
+Correspondence: pafilis[at]hcmr.gr; prego[at]hcmr.gr; Tel: +30 2810 337748
 
 Institute of Marine Biology,
 Biotechnology & Aquaculture
@@ -22,19 +22,19 @@ Thalassocosmos
 71500 Gournes, Crete, Greece
 P.O.Box 2214, 71003 Heraklion, Crete, Greece
 
-<!--
 ## How to cite
 
 If you use PREGO in your research or analysis please cite:
 
-Zafeiropoulos, H.; Paragkamian, S.; Ninidakis, S.; Pavlopoulos, GA.; Jensen, LJ.; Pafilis, E. PREGO: a literature and data-mining resource to associate microorganisms, biological processes, and environment types. Microorganisms 2021, 9, x. https://doi.org/10.3390/xxxx (submitted)
--->
+Zafeiropoulos, H.; Paragkamian, S.; Ninidakis, S.; Pavlopoulos, GA.; Jensen, LJ.; Pafilis, E. 
+PREGO: a literature and data-mining resource to associate microorganisms, biological processes, and environment types. 
+Microorganisms 10.2 (2022). [Full text](https://www.mdpi.com/2076-2607/10/2/293)
 
 ## How to contribute
 
 PREGO team is happy to receive feedback from its' users! If you have any ideas, 
 requests or bugs please submit an issue at [our repository](https://github.com/evangelospafilis/prego_web_site/issues){:target="_blank" rel="noopener"}
-and/or send an email (see above [Contact](#contact))
+and/or send an email (see above [Contact](#contact)).
 
 ## Privacy Policy
 By the means of academic reporting, Google Analytics cookies are in use to collect web site traffic statistics. By using this site, you agree to its use of cookies.

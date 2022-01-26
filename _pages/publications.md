@@ -19,7 +19,9 @@ Zafeiropoulos H, Viet HQ, Vasileiadou K, Potirakis A, Arvanitidis C, Topalis P, 
 
 ## Research articles
 
-Zafeiropoulos, H.; Paragkamian, S.; Ninidakis, S.; Pavlopoulos, GA.; Jensen, LJ.; Pafilis, E. PREGO: a literature and data-mining resource to associate microorganisms, biological processes, and environment types. Microorganisms 2021, 9, x. https://doi.org/10.3390/xxxx (submitted)
+Zafeiropoulos, H.; Paragkamian, S.; Ninidakis, S.; Pavlopoulos, GA.; Jensen, LJ.; Pafilis, E. 
+PREGO: a literature and data-mining resource to associate microorganisms, biological processes, and environment types. 
+Microorganisms 10.2 (2022). [Full text](https://www.mdpi.com/2076-2607/10/2/293)
 
 Lucia Fanini, Omar Defeo, Michael Elliott, Savvas Paragkamian, Maurizio Pinna, Vanessa-Sarah Salvo,
 Coupling beach ecology and macroplastics litter studies: Current trends and the way ahead,
