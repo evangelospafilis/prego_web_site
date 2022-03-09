@@ -10,8 +10,8 @@ permalink: /people/
 ## Group members
 * [Haris Zafeiropoulos, IMBBC, HCMR, Crete, Greece](http://lab42open.hcmr.gr/people/hariszafeiropoulos/){:target="_blank" rel="noopener"}
 * [Savvas Paragkamian, IMBBC, HCMR, Crete, Greece](http://lab42open.hcmr.gr/people/savvas-paragkamian/){:target="_blank" rel="noopener"}
-* [Rania Theologi](https://www.linkedin.com/in/ourania-theologi-7b3893156/){:target="_blank" rel="noopener"}, M.Sc thesis on Chemical text and association rule mining
-* [Dr. Lucia Fanini, IMBBC, HCMR, Crete, Greece](https://www.researchgate.net/profile/Lucia_Fanini){:target="_blank" rel="noopener"}
+* [Rania Theologi](https://www.linkedin.com/in/ourania-theologi-7b3893156/){:target="_blank" rel="noopener"}
+* [Dr. Lucia Fanini](https://www.researchgate.net/profile/Lucia_Fanini){:target="_blank" rel="noopener"}
 
 ## Collaborators
 * [Dr. Christina Pavloudi, The George Washington University](https://scholar.google.gr/citations?user=3zs1rNkAAAAJ){:target="_blank" rel="noopener"}
@@ -23,4 +23,4 @@ permalink: /people/
 * [Dr. Nikos Kyrpides, DOE JGI, San Fransisco, CA, US](https://jgi.doe.gov/our-science/scientists-jgi/nikos-kyrpides/){:target="_blank" rel="noopener"}
 
 ## Visiting Student
-* [Miguel Desmarais](https://www.researchgate.net/profile/Miguel-Desmarais){:target="_blank" rel="noopener"}, visiting student, International Master of Science in Environmental Technology and Engineering(IMETE)
+* [Miguel Desmarais](https://www.researchgate.net/profile/Miguel-Desmarais){:target="_blank" rel="noopener"}, International Master of Science in Environmental Technology and Engineering(IMETE)
