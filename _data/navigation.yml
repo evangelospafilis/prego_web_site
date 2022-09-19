@@ -29,10 +29,10 @@ info:
     url: /#funding
 
 publications:
-  - title: "Preprints"
-    url: /publications/#preprints
   - title: "Research articles"
     url: /publications/#research-articles
+  - title: "Preprints"
+    url: /publications/#preprints
   - title: "Conference proceedings"
     url: /publications/#conference-proceedings
 #  - title: "Reviews"
