@@ -88,6 +88,19 @@ Haris Zafeiropoulos, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis, Savv
 Zafeiropoulos H, Viet HQ, Vasileiadou K, Potirakis A, Arvanitidis C, Topalis P, Pavloudi C, Pafilis E, **2019**. PEMA: from the raw .fastq files of 16S rRNA and COI marker genes to the (M)OTU-table, a thorough metabarcoding analysis. *bioRxiv preprint* 709113.
 [Abstract](https://doi.org/10.1101/709113) [Full text](https://www.biorxiv.org/content/biorxiv/early/2019/07/20/709113.full.pdf) [WWW](https://github.com/hariszaf/pema) <span class="__dimensions_badge_embed__" data-doi="10.1101/709113" data-style="small_rectangle"></span> 
 
+## Theses
+
+Zafeiropoulos, H., 2022. Microbial communities through the lens of high throughput sequencing, data integration and metabolic networks analysis (PhD Thesis). University of Crete, Greece, Herakleion, Crete, Greece. 
+[Abstract](http://dx.doi.org/10.12681/eadd/52097)
+[DOI](http://dx.doi.org/10.12681/eadd/52097)
+<span class="__dimensions_badge_embed__" data-doi="10.12681/eadd/52097" data-style="small_rectangle"></span>  
+
+Theologi, O., 2021. Chemical text and association rule mining to facilitate the study of metabolic processes in hyperthermophilic microorganisms. MSc Thesis 89. National and Kapodistrian University of Athens, Greece. 
+[Abstract](https://pergamos.lib.uoa.gr/uoa/dl/object/2964276)
+[Full Text](https://pergamos.lib.uoa.gr/uoa/dl/object/2964276/file.pdf)
+[WWW](https://pergamos.lib.uoa.gr/uoa/dl/object/2964276) 
+<span class="__dimensions_badge_embed__" data-doi="uoadl:2964276" data-style="small_rectangle"></span>
+
 ## Conference proceedings
 
 Savvas Paragkamian, Haris Zafeiropoulos, Stylianos Ninidakis, Georgios A. Pavlopoulos, Lars Juhl Jensen, Evangelos Pafilis. PREGO (Process, Environment, Organism), mining literature and -omics (meta)data to associate microorganisms, biological processes, and environment types. 9th Conference of MIKROBIOKOSMOS. 16 to 18 December 2021, Athens, Greece. [Oral presentation](https://mikrobiokosmos2021.org/Scientific_Program)
